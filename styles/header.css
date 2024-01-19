@@ -1,0 +1,19 @@
+*{
+   margin: 0%;
+   padding: 0;
+}
+nav {
+    background-color:rgb(41, 22, 128);
+    height: 30px;
+    width:100%;
+    
+    text-align: center;
+    padding: 30px;
+}
+nav a{
+    padding: 30px;
+    color: whitesmoke;
+    font-weight: bolder;
+    text-decoration: none;
+    font-size: large;
+}
